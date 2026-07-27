@@ -169,4 +169,6 @@ README.md
 Displaying README.md.
 
 ## Week 1 Reflection
-Week 1 gave me a solid overview of what actually happens behind the scenes when we browse the web. Learning how clients, servers, HTTP requests, and APIs fit together makes frontend development feel much more grounded, giving context to how code written locally eventually reaches an end user's screen.
+Week 1 gave me a solid overview of what actually happens behind the scenes when we browse the web. Learning how clients, servers, HTTP requests, and APIs fit together makes frontend development feel much more grounded, giving context to how code written locally eventually reaches an end user's screen. none gonna lie i am quite liking this course more and more by a day.
+## Gratitude 
+Thanks for our mentor and the people who made this course really happen I am really greatfull.

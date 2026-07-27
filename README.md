@@ -25,7 +25,7 @@
   - [📌 Quick Command Reference](#-quick-command-reference)
   - [📝 Summary](#-summary)
   - [Week 1 Reflection](#week-1-reflection)
-  - [Gratitude](## Gratitude)
+  - [Gratitude](##Gratitude)
 
 # Week 1 Review: Web & Frontend Fundamentals
 
